@@ -1,0 +1,19 @@
+body {
+    background-color: antiquewhite;
+    font-family: Georgia;
+}
+
+img {
+    width: 235px;
+    height: 407px;
+    position: relative;
+    right: 8vw;
+    border-radius: 15px;
+}
+
+.card {
+    background-color: white;
+    width: 30vw;
+    height: 57vh;
+    border-radius: 35px;
+}
